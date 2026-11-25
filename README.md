@@ -216,3 +216,6 @@ Googleから取得した情報の保存には利用規約上の制限がある�
 
 ---
 
+## 画面遷移図
+
+画面遷移図: https://www.figma.com/design/GtDkVLNbtzBuhp4AFrRN14/%E7%84%A1%E9%A1%8C?m=auto&t=VtGXOqE6WJDLMGLS-7
